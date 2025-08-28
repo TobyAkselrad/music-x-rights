@@ -57,3 +57,12 @@ credentials/
 # Temporary files
 *.tmp
 *.temp
+
+# Chartmetric Sirius XM specific
+cm-siriusxm/.env
+cm-siriusxm/.env.backup
+cm-siriusxm/.env.*
+cm-siriusxm/credentials/
+cm-siriusxm/*.log
+cm-siriusxm/temp/
+cm-siriusxm/tmp/
